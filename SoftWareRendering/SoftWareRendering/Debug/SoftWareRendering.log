@@ -1,0 +1,24 @@
+﻿  gl.cpp
+D:\SoftRenderer\SoftWareRendering\SoftWareRendering\tgaimage.h(60,59): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\SoftRenderer\SoftWareRendering\SoftWareRendering\gl.cpp(151,29): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\SoftRenderer\SoftWareRendering\SoftWareRendering\gl.cpp(153,29): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\SoftRenderer\SoftWareRendering\SoftWareRendering\gl.cpp(186,62): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+geometry.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  SoftWareRendering.vcxproj -> D:\SoftRenderer\SoftWareRendering\Debug\SoftWareRendering.exe
